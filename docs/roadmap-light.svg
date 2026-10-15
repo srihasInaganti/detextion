@@ -3,7 +3,7 @@
 <text x="590" y="52" text-anchor="middle" font-size="26" font-weight="700" fill="#1f2328">Detextion roadmap</text>
 <text x="590" y="78" text-anchor="middle" font-size="14" fill="#59636e">Each step builds toward the next version. A version ships only when its exit gate is met.</text>
 <path d="M 170 150 L 1070 150 A 90 90 0 0 1 1070 330 L 110 330 A 90 90 0 0 0 110 510 L 1070 510 A 90 90 0 0 1 1070 690 L 110 690 A 90 90 0 0 0 110 870 L 380 870 " fill="none" stroke="#d0d7de" stroke-width="14" stroke-linecap="round"/>
-<path d="M 170 150 L 1070 150 A 90 90 0 0 1 1070 330 L 110 330 A 90 90 0 0 0 110 510 L 1070 510 A 90 90 0 0 1 1070 690 L 110 690 A 90 90 0 0 0 110 870 L 380 870 " fill="none" stroke="#2f7dd1" stroke-width="14" stroke-linecap="round" stroke-dasharray="210.00 6180.97" stroke-dashoffset="0.00"/>
+<path d="M 170 150 L 1070 150 A 90 90 0 0 1 1070 330 L 110 330 A 90 90 0 0 0 110 510 L 1070 510 A 90 90 0 0 1 1070 690 L 110 690 A 90 90 0 0 0 110 870 L 380 870 " fill="none" stroke="#2f7dd1" stroke-width="14" stroke-linecap="round" stroke-dasharray="630.00 6180.97" stroke-dashoffset="0.00"/>
 <path d="M 170 150 L 1070 150 A 90 90 0 0 1 1070 330 L 110 330 A 90 90 0 0 0 110 510 L 1070 510 A 90 90 0 0 1 1070 690 L 110 690 A 90 90 0 0 0 110 870 L 380 870 " fill="none" stroke="#ffffff" stroke-width="3" stroke-dasharray="2 12" stroke-linecap="round"/>
 <circle cx="170" cy="150" r="21" fill="#f6f8fa"/>
 <circle cx="170" cy="150" r="17" fill="#2f7dd1" stroke="#2f7dd1" stroke-width="2.5"/>
@@ -11,36 +11,36 @@
 <text x="170" y="105" text-anchor="middle" font-size="14" font-weight="600" fill="#1f2328">Scam warning signs</text>
 <text x="170" y="122" text-anchor="middle" font-size="12" fill="#59636e">the common red flags</text>
 <circle cx="380" cy="150" r="21" fill="#f6f8fa"/>
-<circle cx="380" cy="150" r="26" fill="none" stroke="#2f7dd1" stroke-width="2" opacity="0.6"/>
 <circle cx="380" cy="150" r="17" fill="#2f7dd1" stroke="#2f7dd1" stroke-width="2.5"/>
-<text x="380" y="155" text-anchor="middle" font-size="13" font-weight="700" fill="#fff">2</text>
+<text x="380" y="155" text-anchor="middle" font-size="13" font-weight="700" fill="#fff">✓</text>
 <text x="380" y="195" text-anchor="middle" font-size="14" font-weight="600" fill="#1f2328">Accuracy testing</text>
 <text x="380" y="212" text-anchor="middle" font-size="12" fill="#59636e">measured before tuning</text>
 <circle cx="590" cy="150" r="21" fill="#f6f8fa"/>
-<circle cx="590" cy="150" r="17" fill="#f6f8fa" stroke="#2f7dd1" stroke-width="2.5"/>
-<text x="590" y="155" text-anchor="middle" font-size="13" font-weight="700" fill="#59636e">3</text>
-<text x="590" y="105" text-anchor="middle" font-size="14" font-weight="600" fill="#1f2328">Real-world test set</text>
-<text x="590" y="122" text-anchor="middle" font-size="12" fill="#59636e">scam and genuine messages</text>
+<circle cx="590" cy="150" r="17" fill="#2f7dd1" stroke="#2f7dd1" stroke-width="2.5"/>
+<text x="590" y="155" text-anchor="middle" font-size="13" font-weight="700" fill="#fff">✓</text>
+<text x="590" y="105" text-anchor="middle" font-size="14" font-weight="600" fill="#1f2328">Right-click check</text>
+<text x="590" y="122" text-anchor="middle" font-size="12" fill="#59636e">any message, any site</text>
 <circle cx="800" cy="150" r="21" fill="#f6f8fa"/>
-<circle cx="800" cy="150" r="17" fill="#f6f8fa" stroke="#2f7dd1" stroke-width="2.5"/>
-<text x="800" y="155" text-anchor="middle" font-size="13" font-weight="700" fill="#59636e">4</text>
-<text x="800" y="195" text-anchor="middle" font-size="14" font-weight="600" fill="#1f2328">Right-click check</text>
-<text x="800" y="212" text-anchor="middle" font-size="12" fill="#59636e">any message, any site</text>
+<circle cx="800" cy="150" r="26" fill="none" stroke="#2f7dd1" stroke-width="2" opacity="0.6"/>
+<circle cx="800" cy="150" r="17" fill="#2f7dd1" stroke="#2f7dd1" stroke-width="2.5"/>
+<text x="800" y="155" text-anchor="middle" font-size="13" font-weight="700" fill="#fff">4</text>
+<text x="800" y="195" text-anchor="middle" font-size="14" font-weight="600" fill="#1f2328">Smart analysis</text>
+<text x="800" y="212" text-anchor="middle" font-size="12" fill="#59636e">for the unclear cases</text>
 <circle cx="1010" cy="150" r="21" fill="#f6f8fa"/>
 <circle cx="1010" cy="150" r="17" fill="#f6f8fa" stroke="#2f7dd1" stroke-width="2.5"/>
 <text x="1010" y="155" text-anchor="middle" font-size="13" font-weight="700" fill="#59636e">5</text>
-<text x="1010" y="105" text-anchor="middle" font-size="14" font-weight="600" fill="#1f2328">Smart analysis</text>
-<text x="1010" y="122" text-anchor="middle" font-size="12" fill="#59636e">for the unclear cases</text>
+<text x="1010" y="105" text-anchor="middle" font-size="14" font-weight="600" fill="#1f2328">Privacy controls</text>
+<text x="1010" y="122" text-anchor="middle" font-size="12" fill="#59636e">local-only and opt-in</text>
 <circle cx="1010" cy="330" r="21" fill="#f6f8fa"/>
 <circle cx="1010" cy="330" r="17" fill="#f6f8fa" stroke="#2f7dd1" stroke-width="2.5"/>
 <text x="1010" y="335" text-anchor="middle" font-size="13" font-weight="700" fill="#59636e">6</text>
-<text x="1010" y="375" text-anchor="middle" font-size="14" font-weight="600" fill="#1f2328">Privacy controls</text>
-<text x="1010" y="392" text-anchor="middle" font-size="12" fill="#59636e">local-only and opt-in</text>
+<text x="1010" y="375" text-anchor="middle" font-size="14" font-weight="600" fill="#1f2328">Gmail warnings</text>
+<text x="1010" y="392" text-anchor="middle" font-size="12" fill="#59636e">clear reasons, mark safe</text>
 <circle cx="800" cy="330" r="21" fill="#f6f8fa"/>
 <circle cx="800" cy="330" r="17" fill="#f6f8fa" stroke="#2f7dd1" stroke-width="2.5"/>
 <text x="800" y="335" text-anchor="middle" font-size="13" font-weight="700" fill="#59636e">7</text>
-<text x="800" y="285" text-anchor="middle" font-size="14" font-weight="600" fill="#1f2328">Gmail warnings</text>
-<text x="800" y="302" text-anchor="middle" font-size="12" fill="#59636e">clear reasons, mark safe</text>
+<text x="800" y="285" text-anchor="middle" font-size="14" font-weight="600" fill="#1f2328">Real-world test set</text>
+<text x="800" y="302" text-anchor="middle" font-size="12" fill="#59636e">scam and genuine messages</text>
 <circle cx="590" cy="330" r="21" fill="#f6f8fa"/>
 <circle cx="590" cy="330" r="17" fill="#f6f8fa" stroke="#2f7dd1" stroke-width="2.5"/>
 <text x="590" y="335" text-anchor="middle" font-size="13" font-weight="700" fill="#59636e">8</text>
