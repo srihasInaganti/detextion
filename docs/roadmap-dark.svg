@@ -2,9 +2,9 @@
 <rect width="1180" height="990" rx="16" fill="#0d1117"/>
 <text x="590" y="52" text-anchor="middle" font-size="26" font-weight="700" fill="#e6edf3">Detextion roadmap</text>
 <text x="590" y="78" text-anchor="middle" font-size="14" fill="#9198a1">Each step builds toward the next version. A version ships only when its exit gate is met.</text>
-<path d="M 170 150 L 1070 150 A 90 90 0 0 1 1070 330 L 110 330 A 90 90 0 0 0 110 510 L 1070 510 A 90 90 0 0 1 1070 690 L 110 690 A 90 90 0 0 0 110 870 L 380 870 " fill="none" stroke="#30363d" stroke-width="14" stroke-linecap="round"/>
-<path d="M 170 150 L 1070 150 A 90 90 0 0 1 1070 330 L 110 330 A 90 90 0 0 0 110 510 L 1070 510 A 90 90 0 0 1 1070 690 L 110 690 A 90 90 0 0 0 110 870 L 380 870 " fill="none" stroke="#4493f8" stroke-width="14" stroke-linecap="round" stroke-dasharray="1242.74 6180.97" stroke-dashoffset="0.00"/>
-<path d="M 170 150 L 1070 150 A 90 90 0 0 1 1070 330 L 110 330 A 90 90 0 0 0 110 510 L 1070 510 A 90 90 0 0 1 1070 690 L 110 690 A 90 90 0 0 0 110 870 L 380 870 " fill="none" stroke="#0d1117" stroke-width="3" stroke-dasharray="2 12" stroke-linecap="round"/>
+<path d="M 170 150 L 1070 150 A 90 90 0 0 1 1070 330 L 110 330 A 90 90 0 0 0 110 510 L 1070 510 A 90 90 0 0 1 1070 690 L 110 690 A 90 90 0 0 0 110 870 L 590 870 " fill="none" stroke="#30363d" stroke-width="14" stroke-linecap="round"/>
+<path d="M 170 150 L 1070 150 A 90 90 0 0 1 1070 330 L 110 330 A 90 90 0 0 0 110 510 L 1070 510 A 90 90 0 0 1 1070 690 L 110 690 A 90 90 0 0 0 110 870 L 590 870 " fill="none" stroke="#4493f8" stroke-width="14" stroke-linecap="round" stroke-dasharray="1452.74 6390.97" stroke-dashoffset="0.00"/>
+<path d="M 170 150 L 1070 150 A 90 90 0 0 1 1070 330 L 110 330 A 90 90 0 0 0 110 510 L 1070 510 A 90 90 0 0 1 1070 690 L 110 690 A 90 90 0 0 0 110 870 L 590 870 " fill="none" stroke="#0d1117" stroke-width="3" stroke-dasharray="2 12" stroke-linecap="round"/>
 <circle cx="170" cy="150" r="21" fill="#0d1117"/>
 <circle cx="170" cy="150" r="17" fill="#4493f8" stroke="#4493f8" stroke-width="2.5"/>
 <text x="170" y="155" text-anchor="middle" font-size="13" font-weight="700" fill="#fff">✓</text>
@@ -31,14 +31,14 @@
 <text x="1010" y="105" text-anchor="middle" font-size="14" font-weight="600" fill="#e6edf3">Privacy controls</text>
 <text x="1010" y="122" text-anchor="middle" font-size="12" fill="#9198a1">local-only and opt-in</text>
 <circle cx="1010" cy="330" r="21" fill="#0d1117"/>
-<circle cx="1010" cy="330" r="26" fill="none" stroke="#4493f8" stroke-width="2" opacity="0.6"/>
 <circle cx="1010" cy="330" r="17" fill="#4493f8" stroke="#4493f8" stroke-width="2.5"/>
-<text x="1010" y="335" text-anchor="middle" font-size="13" font-weight="700" fill="#fff">6</text>
+<text x="1010" y="335" text-anchor="middle" font-size="13" font-weight="700" fill="#fff">✓</text>
 <text x="1010" y="375" text-anchor="middle" font-size="14" font-weight="600" fill="#e6edf3">Gmail warnings</text>
 <text x="1010" y="392" text-anchor="middle" font-size="12" fill="#9198a1">clear reasons, mark safe</text>
 <circle cx="800" cy="330" r="21" fill="#0d1117"/>
-<circle cx="800" cy="330" r="17" fill="#0d1117" stroke="#4493f8" stroke-width="2.5"/>
-<text x="800" y="335" text-anchor="middle" font-size="13" font-weight="700" fill="#9198a1">7</text>
+<circle cx="800" cy="330" r="26" fill="none" stroke="#4493f8" stroke-width="2" opacity="0.6"/>
+<circle cx="800" cy="330" r="17" fill="#4493f8" stroke="#4493f8" stroke-width="2.5"/>
+<text x="800" y="335" text-anchor="middle" font-size="13" font-weight="700" fill="#fff">7</text>
 <text x="800" y="285" text-anchor="middle" font-size="14" font-weight="600" fill="#e6edf3">Real-world test set</text>
 <text x="800" y="302" text-anchor="middle" font-size="12" fill="#9198a1">scam and genuine messages</text>
 <circle cx="590" cy="330" r="21" fill="#0d1117"/>
@@ -108,8 +108,13 @@
 <circle cx="170" cy="870" r="17" fill="#0d1117" stroke="#ab7df8" stroke-width="2.5"/>
 <text x="170" y="875" text-anchor="middle" font-size="13" font-weight="700" fill="#9198a1">19</text>
 <text x="170" y="825" text-anchor="middle" font-size="14" font-weight="600" fill="#e6edf3">Firefox and Safari</text>
-<circle cx="380" cy="870" r="34" fill="#0d1117"/>
-<circle cx="380" cy="870" r="30" fill="#0d1117" stroke="#8957e5" stroke-width="3"/>
-<text x="380" y="876" text-anchor="middle" font-size="17" font-weight="700" fill="#8957e5">V3</text>
-<text x="380" y="924" text-anchor="middle" font-size="14" font-weight="700" fill="#8957e5">Intelligence and reach</text>
+<circle cx="380" cy="870" r="21" fill="#0d1117"/>
+<circle cx="380" cy="870" r="17" fill="#0d1117" stroke="#ab7df8" stroke-width="2.5"/>
+<text x="380" y="875" text-anchor="middle" font-size="13" font-weight="700" fill="#9198a1">20</text>
+<text x="380" y="915" text-anchor="middle" font-size="14" font-weight="600" fill="#e6edf3">Keyword matching</text>
+<text x="380" y="932" text-anchor="middle" font-size="12" fill="#9198a1">find the roles that fit you</text>
+<circle cx="590" cy="870" r="34" fill="#0d1117"/>
+<circle cx="590" cy="870" r="30" fill="#0d1117" stroke="#8957e5" stroke-width="3"/>
+<text x="590" y="876" text-anchor="middle" font-size="17" font-weight="700" fill="#8957e5">V3</text>
+<text x="590" y="924" text-anchor="middle" font-size="14" font-weight="700" fill="#8957e5">Intelligence and reach</text>
 </svg>
